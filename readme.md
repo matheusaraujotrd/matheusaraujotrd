@@ -6,7 +6,7 @@
 
 - I'm in a **career transition**
 
-- Expected to start my **Computer Engineering** course in Q3 2022 at **IFPB**.
+- **Computer Engineering** at **IFPB** (currently on my 2nd semester).
 
 - I’m currently learning **C# and Unity**
 
