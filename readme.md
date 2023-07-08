@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Matheus Araujo</h1>
+<h1 align="center">Welcome to my GitHub profile! 👋</h1>
 <h3 align="center">Data Analyst and Lifelong Learner</h3>
 
 - Currently working as a freelancer **Data Curator @ Veeva**
