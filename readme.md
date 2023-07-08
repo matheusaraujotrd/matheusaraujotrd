@@ -1,4 +1,4 @@
-<a target="blank"><img align="center" src="https://i.imgur.com/WVeA1id.png" width="1000" border="auto" /></a>
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Matheus Araujo</h1>
 <h3 align="center">Data Analyst and Lifelong Learner</h3>
 
