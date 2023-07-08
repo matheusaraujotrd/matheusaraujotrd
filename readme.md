@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently improving my skills on **R, Tableau, Statistics and Machine Learning**
 
-- 💬 Ask me about **SQL, Power BI, Dataviz**
+- 💬 Ask me about **SQL, Power BI, Python, Dataviz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
