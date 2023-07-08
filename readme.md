@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Exciting Data Analysis projects**
 
-- Data Analyst Associate By [DataCamp](https://www.datacamp.com/certificate/DAA0015112346460)
+- Certified as Data Analyst Associate By [DataCamp](https://www.datacamp.com/certificate/DAA0015112346460)
 
 - Certified as Yellow Belt in Lean Six Sigma By [FM2S](https://ead.fm2s.com.br/certificado/133718)
 
