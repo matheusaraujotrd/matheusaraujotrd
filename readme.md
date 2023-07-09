@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as a freelancer <b>Data Curator @ Veeva</b><br>I’m looking to collaborate on exciting <b>Data Analysis projects</b><br><b>Certified</b> as <b>Data Analyst Associate</b> By <b>DataCamp</b><br><b>Certified</b> as <b>Yellow Belt in Lean Six Sigma</b> By <b>FM2S</b><br>Contact me at <b>matheusalexandre.engcomp@gmail.com</b><br>I’m currently improving my skills on <b>R, Tableau, Statistics and Machine Learning</b><br>Ask me about <b>SQL, Power BI, Python, Dataviz</b>
+Currently working as a freelancer <b>Data Curator @ Veeva</b><br><br>I’m looking to collaborate on exciting <b>Data Analysis projects</b><br><br><b>Certified</b> as <b>Data Analyst Associate</b> By <b>DataCamp</b><br><br><b>Certified</b> as <b>Yellow Belt in Lean Six Sigma</b> By <b>FM2S</b><br><br>Contact me at <b>matheusalexandre.engcomp@gmail.com</b><br><br>I’m currently improving my skills on <b>R, Tableau, Statistics and Machine Learning</b><br><br>Ask me about <b>SQL, Power BI, Python, Dataviz</b>
 
 
 ## 🌐 Socials:
