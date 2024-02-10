@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as a freelancer <b>Data Curator @ Veeva</b><br><br>I’m looking to collaborate on exciting <b>Data Analysis projects</b><br><br><b>Certified</b> as <b>Data Analyst Associate</b> By <b><a href=https://www.datacamp.com/certificate/DAA0015112346460>DataCamp</a></b><br><br><b>Certified</b> as <b>Yellow Belt in Lean Six Sigma</b> By <b><a href=https://ead.fm2s.com.br/certificado/133718>FM2S</a></b><br><br>Contact me at <b>matheusalexandre.engcomp@gmail.com</b><br><br>I’m currently improving my skills on <b>Data Engineering, Data Pipelines and Big Data</b><br><br>Ask me about <b>SQL, Power BI, Python, Dataviz, Databases</b>
+Currently working as a freelancer <b>Quality Auditor @ Scale AI</b><br><br>I’m looking to collaborate on exciting <b>Data Analysis projects</b><br><br><b>Certified</b> as <b>Data Analyst Associate</b> By <b><a href=https://www.datacamp.com/certificate/DAA0015112346460>DataCamp</a></b><br><br><b>Certified</b> as <b>Yellow Belt in Lean Six Sigma</b> By <b><a href=https://ead.fm2s.com.br/certificado/133718>FM2S</a></b><br><br>Contact me at <b>matheusalexandre.engcomp@gmail.com</b><br><br>I’m currently improving my skills on <b>Data Engineering, Data Pipelines and Big Data</b><br><br>Ask me about <b>SQL, Power BI, Python, Dataviz, Databases</b>
 
 
 ## 🌐 Socials:
